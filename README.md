@@ -14,7 +14,7 @@ sudo apt install git nodejs npm -y
 sudo apt install golang-go -y
 sudo apt install  gccgo-go -y
 
-git clone https://github.com/fluxxset/OwnEthCrackingStation.git
+git clone https://github.com/duarfeht/OwnEthCrackingStation.git
 cd OwnEthCrackingStation
 sudo apt install unzip
 unzip geth.zip
