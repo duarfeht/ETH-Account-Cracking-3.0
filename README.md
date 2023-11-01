@@ -14,8 +14,8 @@ sudo apt install git nodejs npm -y
 sudo apt install golang-go -y
 sudo apt install  gccgo-go -y
 
-git clone https://github.com/duarfeht/OwnEthCrackingStation.git
-cd OwnEthCrackingStation
+git clone https://github.com/duarfeht/ETH-Account-Cracking-3.0.git
+cd ETH-Account-Cracking-3.0
 sudo apt install unzip
 unzip geth.zip
 mv geth /usr/local/bin
